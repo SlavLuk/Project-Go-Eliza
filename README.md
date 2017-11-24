@@ -2,7 +2,6 @@
 
 Eliza chatbot is a Go implementation of Weizenbaum's [ELIZA chatbot](https://en.wikipedia.org/wiki/ELIZA), which is a simulation of a Rogerian psychotherapist. 
 
-Based on Evan Dempsey's [Python implementation](https://www.smallsurething.com/implementing-the-famous-eliza-chatbot-in-python/) and Norbert Landsteiner's [JavaScript implementation](http://www.masswerk.at/elizabot/).
 
 ## Installation
 
@@ -20,27 +19,50 @@ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
 
 9. Press Enter. Your local clone will be created.
 
+````sh
+go build runner.go
+````
+>and then
+````sh
+go ./runner
+````
+
 
 ## Usage
 
-TODO: Write usage instructions
+ - The main purpose of this project was to learn my knowledge of Go lang, HTML, JavaScript and Regular Expressions.
 
 ## Contributing
 
-1. Fork it!
-2. Create your feature branch: `git checkout -b my-new-feature`
-3. Commit your changes: `git commit -am 'Add some feature'`
-4. Push to the branch: `git push origin my-new-feature`
-5. Submit a pull request :D
+ Based on Evan Dempsey's [Python implementation](https://www.smallsurething.com/implementing-the-famous-eliza-chatbot-in-python/) and Norbert Landsteiner's [JavaScript implementation](http://www.masswerk.at/elizabot/).
 
 ## History
 
-TODO: Write history
+	https://en.wikipedia.org/wiki/ELIZA
 
 ## Credits
 
-TODO: Write credits
+_Eliza in other languages :_ 
+* https://www.smallsurething.com/implementing-the-famous-eliza-chatbot-in-python/
+
+_Ajax :_ 
+* https://www.w3schools.com/xml/ajax_intro.asp
+* https://www.w3schools.com/jquery/ajax_ajax.asp
+* https://openclassrooms.com/courses/use-javascript-on-the-web/make-your-first-ajax-request
+
+
+_Regular Expressions:_
+* https://regex101.com/
+* http://www.rexegg.com/regex-quickstart.html
+* https://regexr.com/
+
+_Go Lang:_
+* https://golang.org/doc/
+
+_Html & JavaScript :_
+* https://getbootstrap.com/docs/4.0/getting-started/introduction/
+
 
 ## License
 
-TODO: Write license
+Educational 
