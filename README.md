@@ -8,7 +8,8 @@ Based on Evan Dempsey's [Python implementation](https://www.smallsurething.com/i
 
 All codes in this repository must be ran via go compiler 
 1. First go to https://golang.org/dl/ to download a binary release suitable for your system
-2. You can clone your repository to create a local copy on your computer and sync between the two locations 3. On GitHub, navigate to the main page of the repository
+2. You can clone your repository to create a local copy on your computer and sync between the two locations 
+3. On GitHub, navigate to the main page of the repository
 4. Clone or download button Under the repository name, click Clone or download
 5. Clone URL button In the Clone with HTTPs section, click to copy the clone URL for the repository. 
 6. Open Git Bash. 
