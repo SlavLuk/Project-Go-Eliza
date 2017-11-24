@@ -19,6 +19,8 @@ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
 
 9. Press Enter. Your local clone will be created.
 
+10. Change folder name 'Project-Go-Eliza' to 'elizago' and run
+
 ````sh
 go build runner.go
 ````
