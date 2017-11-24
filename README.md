@@ -1,6 +1,6 @@
 # Eliza chatbot
 
-goeliza is a Go implementation of Weizenbaum's [ELIZA chatbot](https://en.wikipedia.org/wiki/ELIZA), which is a simulation of a Rogerian psychotherapist. 
+Eliza chatbot is a Go implementation of Weizenbaum's [ELIZA chatbot](https://en.wikipedia.org/wiki/ELIZA), which is a simulation of a Rogerian psychotherapist. 
 
 Based on Evan Dempsey's [Python implementation](https://www.smallsurething.com/implementing-the-famous-eliza-chatbot-in-python/) and Norbert Landsteiner's [JavaScript implementation](http://www.masswerk.at/elizabot/).
 
