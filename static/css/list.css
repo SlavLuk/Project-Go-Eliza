@@ -1,0 +1,17 @@
+  #user-input {
+
+      width: 100%;
+
+    }
+
+    li {
+
+      width: 50%;
+      height: 70px;
+      margin: 6px;
+      padding: 10px;
+    }
+
+    #container {
+      margin-bottom: 100px;
+    }
